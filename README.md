@@ -47,7 +47,11 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-[![Product Name Screen Shot](/READMEdocs/screenshot.gif)](https://example.com)
+<p align="center">
+  <kbd>
+<img src="https://user-images.githubusercontent.com/108323714/192789027-a26cefda-d4e4-4108-8624-5c0983425c56.gif"></img>
+   </kbd>
+</p>
 
 There are many portfolio website templates available on Github, however, I didn't find one that really suit my needs so I created this one. A simple, easy to configure, lightweight, and responsive static portfolio website.
 
