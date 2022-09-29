@@ -49,7 +49,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://user-images.githubusercontent.com/108323714/192789027-a26cefda-d4e4-4108-8624-5c0983425c56.gif"></img>
+<img src="https://user-images.githubusercontent.com/108323714/192997058-bd51670d-bef0-4d45-9dab-a9d81945c02f.gif"></img>
    </kbd>
 </p>
 
